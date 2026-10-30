@@ -5,6 +5,7 @@
 ## Проекты
 
 - 📚 **[Конспекты лекций](https://vmaiorov-collab.github.io/conspectus/)** — автономные офлайн-конспекты лекций Яндекс Кружка: ДП, графы, строки, структуры данных, C++. Исходники: [conspectus](https://github.com/vmaiorov-collab/conspectus)
+- 🔤 [wordcatcher](https://github.com/vmaiorov-collab/wordcatcher)
 - 🧠 [Vocabulary Kahoot](https://vmaiorov-collab.github.io/kahoot/) — викторина на словарный запас с таблицей лидеров
 - 🎮 [Остальные приложения и игры](https://vmaiorov-collab.github.io/)
 
